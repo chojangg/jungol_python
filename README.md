@@ -1,6 +1,6 @@
 # [jungol_python](http://jungol.co.kr/bbs/board.php?bo_table=pbank&sca=py)
-jungol문제 풀어보기
-LCoder_Python를 책과 함께보며 문제를 풀어봅니다
+## jungol문제 풀어보기
+## LCoder_Python를 책과 함께보며 문제를 풉니다
 
 목차  
 [1_출력](https://github.com/chojangg/jungol_python/tree/main/%EC%B6%9C%EB%A0%A5)  
