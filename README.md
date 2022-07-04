@@ -5,7 +5,7 @@
 #### 목차  
 [1_출력](https://github.com/chojangg/jungol_python/tree/main/%EC%B6%9C%EB%A0%A5)  
 [2_변수와 입력](https://github.com/chojangg/jungol_python/tree/main/%EB%B3%80%EC%88%98%EC%99%80%20%EC%9E%85%EB%A0%A5)  
-3_연산자  
+[3_연산자]https://github.com/chojangg/jungol_python/tree/main/%EC%97%B0%EC%82%B0%EC%9E%90  
 4_문자열1  
 5_리스트1  
 6_선택제어문  
