@@ -1,0 +1,5 @@
+name = input()
+stu_num = input()
+score = input()
+score = float(score)
+print(f'I am {name}(IdNo. {stu_num}). I got {score:f} in my midterm exam.')
