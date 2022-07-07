@@ -7,7 +7,7 @@
 [2_변수와 입력](https://github.com/chojangg/jungol_python/tree/main/%EB%B3%80%EC%88%98%EC%99%80%20%EC%9E%85%EB%A0%A5)  
 [3_연산자](https://github.com/chojangg/jungol_python/tree/main/%EC%97%B0%EC%82%B0%EC%9E%90)  
 [4_문자열1](https://github.com/chojangg/jungol_python/tree/main/%EB%AC%B8%EC%9E%90%EC%97%B41)  
-5_리스트1  
+[5_리스트1](https://github.com/chojangg/jungol_python/tree/main/%EB%A6%AC%EC%8A%A4%ED%8A%B81)  
 6_선택제어문  
 7_디버깅  
 8_반복제어문1  
