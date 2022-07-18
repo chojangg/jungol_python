@@ -9,7 +9,7 @@
 [4_문자열1](https://github.com/chojangg/jungol_python/tree/main/%EB%AC%B8%EC%9E%90%EC%97%B41)  
 [5_리스트1](https://github.com/chojangg/jungol_python/tree/main/%EB%A6%AC%EC%8A%A4%ED%8A%B81)  
 [6_선택제어문](https://github.com/chojangg/jungol_python/tree/main/%EC%84%A0%ED%83%9D%EC%A0%9C%EC%96%B4%EB%AC%B8)  
-7_디버깅  
+[7_주석문과 디버깅](https://github.com/chojangg/jungol_python/tree/main/%EC%A3%BC%EC%84%9D%EB%AC%B8%EA%B3%BC%20%EB%94%94%EB%B2%84%EA%B9%85)  
 8_반복제어문1  
 9_반복제어문2  
 10_반복제어문3  
